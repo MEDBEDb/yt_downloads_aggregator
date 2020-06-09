@@ -2,12 +2,9 @@ import os, os.path
 import subprocess
 import fnmatch
 
-
 # Make sure there are only directorries in the source folder, i.e. no files
 # Each dirrectory has to have a index.txt with a yt channel URL in it
 # Run as python3 aggregator.py or python yt_downloads_aggregator.py
-
-
 
 ### TODO: 
 # check if pip installed
@@ -17,7 +14,7 @@ import fnmatch
 # improve progress visualization
 
 # Set you root dir with all the channels to maintain, a folder per channel
-BaseDir = '/home/sv3/Downloads/YtDL/'
+BaseDir = '/Volumes/Untitled/YtDL/'
 DirList = os.listdir(BaseDir) 
 
 # itterate through all the existing dirrectories and read index.txt files to get the base URL for each channel
