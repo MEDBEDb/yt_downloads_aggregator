@@ -9,10 +9,16 @@ pip3 install -r requirements.txt
 
 # 2 Folder structure
 Make sure all your channels are in the following format:
+
 channel-name1/index.txt
+
 channel-name2/index.txt
+
 ...
+
 channel-nameN/index.txt
+
+
 
 Index txt should contain the Youtube URL in the following format: 
 https://www.youtube.com/user/<username>/videos
