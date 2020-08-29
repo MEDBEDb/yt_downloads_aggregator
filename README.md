@@ -20,10 +20,7 @@ https://www.youtube.com/user/<username>/videos
 https://www.youtube.com/channel/<channel-ID>/videos
 
 # 3 run the script 
-Update the BaseDIR containing all your folders (line 17)
-BaseDir = '/path/to/your/folder'
-
-Run the script using "python3 aggregator.py"
+Run the script using "python3 aggregator.py /Path/to/your/channels/folder"
 
 It will download all the newly uploaded videos for each channel, including subtitles and descriptions.
 Also it will create archive.txt file, and update it with the downloaded indexes, so that at the next run it will not re-download already downloaded files.

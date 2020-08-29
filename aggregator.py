@@ -1,6 +1,7 @@
 import os, os.path
 import subprocess
 import fnmatch
+import argparse
 
 # Make sure there are only directorries in the source folder, i.e. no files
 # Each dirrectory has to have a index.txt with a yt channel URL in it
@@ -14,7 +15,12 @@ import fnmatch
 # improve progress visualization
 
 # Set you root dir with all the channels to maintain, a folder per channel
-BaseDir = '/Volumes/Untitled/YtDL/'
+#BaseDir = '/Volumes/Elements14Tb/YT/'
+
+parser = argparse.ArgumentParser(description='Specify your base dirrectory where all Youtube channels are saved')
+parser.add_argument('string', help='Input dirrectory location', nargs='+')
+args = parser.parse_args()
+BaseDir = ' '.join(args.string)
 DirList = os.listdir(BaseDir) 
 
 # itterate through all the existing dirrectories and read index.txt files to get the base URL for each channel
