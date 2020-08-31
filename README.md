@@ -5,7 +5,19 @@ Download, maintain and update entire Youtube channels
 ### How to use? 
 
 # 1 Install required dependencies
+1.1 Install Python 3 https://www.python.org/downloads/
+1.2 Install Yt-Download lib, for windows follow 1.2.1 step, for nix - 1.2.2 (or 1.2.3 for both)
+1.2.1 Windows: Go to https://yt-dl.org/downloads/ and find the ".exe" file
+1.2.2 OS X and Linux 
+a) Downlod the binary and place into /usr/local/bin folder
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+b) Make it executable
+sudo chmod a+rx /usr/local/bin/youtube-dl
+1.2.3 Using Pip
 pip3 install -r requirements.txt
+
+1.3 Verify it has been installed properly, run the following command: youtube-dl --version
+Should return something like:  2020.07.28
 
 # 2 Folder structure
 Make sure all your channels are in the following format:
