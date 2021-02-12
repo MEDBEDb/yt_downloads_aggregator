@@ -44,7 +44,11 @@ https://www.youtube.com/channel/<channel-ID>/videos
 
 # 3 run the script 
 A. Binary (easy) - make sure you add / update all your channels in the "data" folder
-Run from terminal: yt_downloads_aggregator_fotw.design.exe data/
+Run from terminal: 
+
+Open bin/ folder
+
+yt_downloads_aggregator_fotw.design.exe data/
 
 B. From Source
 Run the script using "python aggregator.py \Path\to\your\channels\folder\"
