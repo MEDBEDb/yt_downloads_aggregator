@@ -8,13 +8,20 @@ Don't need to install anything, just download the repository and extract the fil
 
 # 1B (from source) Install required dependencies
 1.1 Install Python 3 https://www.python.org/downloads/
+
 1.2 Install Yt-DLC https://github.com/blackjack4494/yt-dlc using A or B method
+
 	1.2A Using Pip
+
 		pip3 install -r requirements.txt 
+
 	1.2B
+
 		python -m pip install --upgrade youtube-dlc
 
+
 1.3 Verify it has been installed properly, run the following command: youtube-dlc --version
+
 Should return something like:  2020.11.11-3
 
 
@@ -22,9 +29,13 @@ Should return something like:  2020.11.11-3
 Make sure each channel has an index.txt file with the URL pointing to Youtube.
 
 randomChannel/index.txt
+
 randomChanne2/index.txt
+
 ...
+
 randomChanneX/index.txt
+
 
 Index txt should contain the Youtube URL in the following format: 
 https://www.youtube.com/user/<username>/videos
