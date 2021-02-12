@@ -7,13 +7,13 @@ Download, maintain, hoard and update entire Youtube channels
 Don't need to install anything, just download the repository and extract the files somewhere
 
 # 1B (from source) Install required dependencies
-1.1 Install Python 3 https://www.python.org/downloads/
+1.1 Install Python https://www.python.org/downloads/
 
 1.2 Install Yt-DLC https://github.com/blackjack4494/yt-dlc using A or B method
 
 	1.2A Using Pip
 
-		pip3 install -r requirements.txt 
+		pip install -r requirements.txt 
 
 	1.2B
 
@@ -47,7 +47,7 @@ A. Binary (easy) - make sure you add / update all your channels in the "data" fo
 Run from terminal: yt_downloads_aggregator_fotw.design.exe data/
 
 B. From Source
-Run the script using "python aggregator.py /Path/to/your/channels/folder"
+Run the script using "python aggregator.py \Path\to\your\channels\folder\"
 
 
 
