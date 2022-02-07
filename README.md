@@ -29,16 +29,21 @@ Should return something like:  2022.02.04
 The script is reading the channel ID from the second string of the folder separated by space.
 Currently there are 4 types of YT URLs supported: (Let me know if you find more)
 
-https://www.youtube.com/user/<username>/videos
-https://www.youtube.com/c/<channel-name>/videos
-https://www.youtube.com/channel/<channel-hash-ID>/videos
-https://www.youtube.com/channel/<channel-hash-ID>
+a) https://www.youtube.com/user/_username_/videos
+	
+b) https://www.youtube.com/c/'_channel-name_'/videos
+
+c) https://www.youtube.com/channel/'_channel-hash-ID_'/videos
+	
+d) https://www.youtube.com/channel/'_channel-hash-ID_'
 
 For the first two each folder must contain two string: AnyGivenName username or AnyGivenName channel-name
-For example: FDF FamilyDrivenFaith 
+
+	For example: FDF FamilyDrivenFaith 
 
 For the later two, make sure to include LgcyChn as part of the first string: AnyGivenName HashID
-For example:  AO&OProductions_LgcyChn UCz4Qb-1lIttNRgB_lQDm6eA
+
+	For example:  AO&OProductions_LgcyChn UCz4Qb-1lIttNRgB_lQDm6eA
 
 
 
@@ -48,7 +53,7 @@ Run from terminal:
 
 Open bin/ folder
 
-yt_downloads_aggregator_fotw.design.exe data/
+aggregator.exe test/
 
 B. From Source
 Run the script using "python aggregator.py \Path\to\your\channels\folder\"
