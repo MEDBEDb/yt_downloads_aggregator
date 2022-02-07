@@ -29,13 +29,13 @@ Should return something like:  2022.02.04
 The script is reading the channel ID from the second string of the folder separated by space.
 Currently there are 4 types of YT URLs supported: (Let me know if you find more)
 
-a) https://www.youtube.com/user/<username>/videos
+a) https://www.youtube.com/user/'<username>'/videos
 	
-b) https://www.youtube.com/c/<channel-name>/videos
+b) https://www.youtube.com/c/'<channel-name>'/videos
 
-c) https://www.youtube.com/channel/<channel-hash-ID>/videos
+c) https://www.youtube.com/channel/'<channel-hash-ID>'/videos
 	
-d) https://www.youtube.com/channel/<channel-hash-ID>
+d) https://www.youtube.com/channel/'<channel-hash-ID>'
 
 For the first two each folder must contain two string: AnyGivenName username or AnyGivenName channel-name
 
