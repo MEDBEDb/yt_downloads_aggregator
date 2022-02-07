@@ -22,7 +22,8 @@ baseDir = ' '.join(args.string)
 dirList = os.listdir(baseDir)
 subtitleLanguages = 'en,ru,zh-Hans' # 'en,es,iw,ro,ru,zh-Hans'
 # Download the best video with h264 codec, or the best video if there is no such video; # For other examples: https://github.com/yt-dlp/yt-dlp#format-selection-examples 
-mediaFormat = "(bv*[vcodec^=avc1]+ba) / (bv*+ba/b) " 
+# mediaFormat = "(bv*[vcodec^=avc1]+ba) / (bv*+ba/b) " 
+mediaFormat = "best[height<=480]"
 
 # itterate through all the existing dirrectories and read index.txt files to get the base URL for each channel
 for x in range(len(dirList)):
@@ -48,7 +49,7 @@ for x in range(len(dirList)):
 		# Popen Docs https://docs.python.org/2/library/subprocess.html#subprocess.Popen 
 		# To download comments (slow): --write-comments
 		with Popen("yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --write-auto-subs --write-subs --sub-langs " + subtitleLanguages + 
-			" -f " + '"' + mediaFormat + '"' + " --download-archive archive.txt --write-description -ciw " + channelUrl,
+			" -f " + '"' + mediaFormat + '"' + " --recode-video mp4 --download-archive archive.txt --write-description -ciw " + channelUrl,
 			stdout=PIPE, cwd=targetDir, bufsize=1, universal_newlines=True) as ytDlpProcess:
 			for line in ytDlpProcess.stdout:
 				print(line, end='') # process line here
