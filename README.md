@@ -7,9 +7,9 @@ Download, maintain, hoard and update entire Youtube channels
 Don't need to install anything, just download the repository and extract the files somewhere
 
 # 1B (from source) Install required dependencies
-1.1 Install Python https://www.python.org/downloads/
+1.1 Install Python https://www.python.org/downloads
 
-1.2 Install Yt-DLC https://github.com/blackjack4494/yt-dlc using A or B method
+1.2 Install yt-dlp https://github.com/yt-dlp/yt-dlp using A or B method
 
 	1.2A Using Pip
 
@@ -17,30 +17,30 @@ Don't need to install anything, just download the repository and extract the fil
 
 	1.2B
 
-		python -m pip install --upgrade youtube-dlc
+		python -m pip install --upgrade yt-dlp
 
 
-1.3 Verify it has been installed properly, run the following command: youtube-dlc --version
+1.3 Verify it has been installed properly, run the following command: yt-dlp --version
 
-Should return something like:  2020.11.11-3
+Should return something like:  2022.02.04
 
 
 # 2 Setup folder structure for your channels
-Make sure each channel has an index.txt file with the URL pointing to Youtube.
+The script is reading the channel ID from the second string of the folder separated by space.
+Currently there are 4 types of YT URLs supported: (Let me know if you find more)
 
-randomChannel/index.txt
-
-randomChanne2/index.txt
-
-...
-
-randomChanneX/index.txt
-
-
-Index txt should contain the Youtube URL in the following format: 
 https://www.youtube.com/user/<username>/videos
-	or
-https://www.youtube.com/channel/<channel-ID>/videos
+https://www.youtube.com/c/<channel-name>/videos
+https://www.youtube.com/channel/<channel-hash-ID>/videos
+https://www.youtube.com/channel/<channel-hash-ID>
+
+For the first two each folder must contain two string: AnyGivenName username or AnyGivenName channel-name
+For example: FDF FamilyDrivenFaith 
+
+For the later two, make sure to include LgcyChn as part of the first string: AnyGivenName HashID
+For example:  AO&OProductions_LgcyChn UCz4Qb-1lIttNRgB_lQDm6eA
+
+
 
 # 3 run the script 
 A. Binary (easy) - make sure you add / update all your channels in the "data" folder
