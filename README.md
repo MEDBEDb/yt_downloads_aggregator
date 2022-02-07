@@ -53,7 +53,7 @@ Run from terminal:
 
 Open bin/ folder
 
-yt_downloads_aggregator_fotw.design.exe data/
+aggregator.exe test/
 
 B. From Source
 Run the script using "python aggregator.py \Path\to\your\channels\folder\"
