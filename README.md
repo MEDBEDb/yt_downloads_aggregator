@@ -69,8 +69,11 @@ the new uploads using the txt archives
 
 # 3 run the script 
 A. From Source
-Run the script using python aggregator.py -path "<Full path to download dir>" -sub "Subs,separated,by,comma" -format "format profile"
-(eg.: "python aggregator.py -path "D:\YTDL\" -sub "en,ru,zh-Hans" -format "best[height<=480]")
+Run the script using pythonЖ
+
+	python aggregator.py -path "<Full path to download dir>" -sub "Subs,separated,by,comma" -format "format profile"
+
+	python aggregator.py -path "D:\YTDL\" -sub "en,ru,zh-Hans" -format "best[height<=480]
 For more media profiles - check https://github.com/yt-dlp/yt-dlp#format-selection-examples 
 
 It will download all the newly uploaded videos for each channel, including subtitles and descriptions.
