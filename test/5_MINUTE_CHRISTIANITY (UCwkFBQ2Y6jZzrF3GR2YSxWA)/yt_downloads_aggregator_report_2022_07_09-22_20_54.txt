@@ -1,0 +1,316 @@
+5_MINUTE_CHRISTIANITY (UCwkFBQ2Y6jZzrF3GR2YSxWA): 6 files before download
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage
+[youtube:tab] A channel/user page was given. All the channel's videos will be downloaded. To download only the videos in the home page, add a "/featured" to the URL
+[download] Downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 1: Downloading API JSON
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 2: Downloading API JSON
+[info] Playlist description is already present
+[info] Playlist thumbnail is already present
+[youtube:tab] playlist 5 MINUTE CHRISTIANITY - Videos: Downloading 74 videos
+[download] Downloading video 1 of 74
+[download] John MacArthur:  THE TRUE NATURE OF SINNERS has already been recorded in the archive
+[download] Downloading video 2 of 74
+[download] John MacArthur:  MARY, THE MOTHER OF GOD?? has already been recorded in the archive
+[download] Downloading video 3 of 74
+[download] John MacArthur:  HOW TO FEEL INNER PEACE has already been recorded in the archive
+[download] Downloading video 4 of 74
+[download] John MacArthur:  AT PEACE WITH GOD has already been recorded in the archive
+[download] Downloading video 5 of 74
+[download] John MacArthur:  THE FEAR OF GOD has already been recorded in the archive
+[download] Downloading video 6 of 74
+[download] John MacArthur:  CHARISMATIC CULT--INSULTING THE HOLY SPIRIT has already been recorded in the archive
+[download] Downloading video 7 of 74
+[download] John MacArthur:  DID JESUS VISIT HELL? has already been recorded in the archive
+[download] Downloading video 8 of 74
+[download] John MacArthur:  THE INNER STRUGGLE WITH THE FLESH has already been recorded in the archive
+[download] Downloading video 9 of 74
+[download] John MacArthur:  THE CONFLICT WITHIN has already been recorded in the archive
+[download] Downloading video 10 of 74
+[download] John MacArthur:  THE LIE OF EVOLUTION has already been recorded in the archive
+[download] Downloading video 11 of 74
+[download] John MacArthur:  PUT OFF THE OLD MAN has already been recorded in the archive
+[download] Downloading video 12 of 74
+[download] John MacArthur:  FORBIDDEN BY GOVERNMENT has already been recorded in the archive
+[download] Downloading video 13 of 74
+[download] John MacArthur:  GOD CONTROLS THE FUTURE has already been recorded in the archive
+[download] Downloading video 14 of 74
+[download] John MacArthur:  CAN I LOSE MY SALVATION? has already been recorded in the archive
+[download] Downloading video 15 of 74
+[download] John MacArthur:  ADOPTED BY GOD has already been recorded in the archive
+[download] Downloading video 16 of 74
+[download] John MacArthur:  NO RACIAL BARRIERS has already been recorded in the archive
+[download] Downloading video 17 of 74
+[download] John MacArthur:  CAN WE CHOOSE GOD? has already been recorded in the archive
+[download] Downloading video 18 of 74
+[download] John MacArthur:  PUT ON THE NEW MAN has already been recorded in the archive
+[download] Downloading video 19 of 74
+[download] John MacArthur:  A PRAYER FOR SALVATION has already been recorded in the archive
+[download] Downloading video 20 of 74
+[download] John MacArthur:  IT'S TOO LATE! has already been recorded in the archive
+[download] Downloading video 21 of 74
+[download] John MacArthur:  SEDUCED BY THE CHARISMATIC CULT has already been recorded in the archive
+[download] Downloading video 22 of 74
+[download] John MacArthur:  PARTNERING WITH SATAN has already been recorded in the archive
+[download] Downloading video 23 of 74
+[download] John MacArthur:  HOW DO YOU KNOW YOU'RE A CHRISTIAN? has already been recorded in the archive
+[download] Downloading video 24 of 74
+[download] John MacArthur:  KILLING THE PROPHETS has already been recorded in the archive
+[download] Downloading video 25 of 74
+[download] John MacArthur:  SHARING THE GOSPEL WITH COURAGE! has already been recorded in the archive
+[download] Downloading video 26 of 74
+[download] John MacArthur:  OUR DIVINE MISSION has already been recorded in the archive
+[download] Downloading video 27 of 74
+[download] John MacArthur:  ANGELIC SIN has already been recorded in the archive
+[download] Downloading video 28 of 74
+[download] John MacArthur:  HOW GOOD MUST I BE? has already been recorded in the archive
+[download] Downloading video 29 of 74
+[download] John MacArthur:  SAVED FROM WHAT has already been recorded in the archive
+[download] Downloading video 30 of 74
+[download] John MacArthur:  CATHOLIC vs  CHRISTIAN has already been recorded in the archive
+[download] Downloading video 31 of 74
+[download] John MacArthur:  HOW TO LIVE THE CHRISTIAN LIFE has already been recorded in the archive
+[download] Downloading video 32 of 74
+[download] John MacArthur:  THE FEAR OF DEATH has already been recorded in the archive
+[download] Downloading video 33 of 74
+[download] John MacArthur:  CHILDREN OF GOD vs.  CHILDREN OF THE DEVIL has already been recorded in the archive
+[download] Downloading video 34 of 74
+[download] John MacArthur:  HOW DO I LOVE GOD? has already been recorded in the archive
+[download] Downloading video 35 of 74
+[download] John MacArthur:  TRUSTING GOD DURING COVID has already been recorded in the archive
+[download] Downloading video 36 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--LEAD US NOT INTO TEMPTATION has already been recorded in the archive
+[download] Downloading video 37 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--FORGIVE US OUR SINS has already been recorded in the archive
+[download] Downloading video 38 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--OUR DAILY BREAD has already been recorded in the archive
+[download] Downloading video 39 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--THY KINGDOM COME has already been recorded in the archive
+[download] Downloading video 40 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--HALLOWED BE THY NAME has already been recorded in the archive
+[download] Downloading video 41 of 74
+[download] John MacArthur:  MODERN CHRISTIAN PERSECUTION has already been recorded in the archive
+[download] Downloading video 42 of 74
+[download] John MacArthur:  JESUS AND HELL has already been recorded in the archive
+[download] Downloading video 43 of 74
+[download] John MacArthur:  UNDERSTANDING SALVATION has already been recorded in the archive
+[download] Downloading video 44 of 74
+[download] John MacArthur:  A MARXIST TAKEOVER OF THE CHURCH has already been recorded in the archive
+[download] Downloading video 45 of 74
+[download] John MacArthur:  WHY A SERPENT ON A STICK? has already been recorded in the archive
+[download] Downloading video 46 of 74
+[download] John MacArthur:  THE CONSEQUENCE OF UNBELIEF has already been recorded in the archive
+[download] Downloading video 47 of 74
+[download] John MacArthur:  WERE OLD TESTAMENT PEOPLE SAVED? has already been recorded in the archive
+[download] Downloading video 48 of 74
+[download] John MacArthur:  RACISM IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 49 of 74
+[download] John MacArthur:  WHY DOES GOD ALLOW EVIL? has already been recorded in the archive
+[download] Downloading video 50 of 74
+[download] John MacArthur:  SHOULD CHRISTIANS TAKE THE JAB? has already been recorded in the archive
+[download] Downloading video 51 of 74
+[download] John MacArthur:  "WHY HAVE YOU FORSAKEN ME?" has already been recorded in the archive
+[download] Downloading video 52 of 74
+[download] John MacArthur:  OUR SATANIC LEADERS has already been recorded in the archive
+[download] Downloading video 53 of 74
+[download] R.C. Sproul:  O.M.G. has already been recorded in the archive
+[download] Downloading video 54 of 74
+[download] R.C. Sproul:  WHAT IS THE GOSPEL? has already been recorded in the archive
+[download] Downloading video 55 of 74
+[download] R.C.  Sproul:  DON'T MESS WITH THE GOSPEL! has already been recorded in the archive
+[download] Downloading video 56 of 74
+[download] John MacArthur:  HOW SHOULD WE RELATE TO THE WORLD? has already been recorded in the archive
+[download] Downloading video 57 of 74
+[download] John MacArthur:  EVIL CHRISTIAN COMPROMISE has already been recorded in the archive
+[download] Downloading video 58 of 74
+[download] John MacArthur: ARE PEOPLE BASICALLY GOOD? has already been recorded in the archive
+[download] Downloading video 59 of 74
+[download] John MacArthur: CULTURAL INFILTRATION IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 60 of 74
+[download] John MacArthur: IS GOVERNMENT A THREAT TO THE CHURCH? has already been recorded in the archive
+[download] Downloading video 61 of 74
+[download] John MacArthur: HOW DOES GOD SPEAK TO YOU? has already been recorded in the archive
+[download] Downloading video 62 of 74
+[download] John MacArthur: DOES TRUTH MATTER? has already been recorded in the archive
+[download] Downloading video 63 of 74
+[download] John MacArthur: CHRISTIANS AND RE-MARRIAGE has already been recorded in the archive
+[download] Downloading video 64 of 74
+[download] John MacArthur: CAN A CHRISTIAN DIVORCE? has already been recorded in the archive
+[download] Downloading video 65 of 74
+[download] John MacArthur: ARE YOU CONTEMPLATING MARRIAGE? has already been recorded in the archive
+[download] Downloading video 66 of 74
+[download] John MacArthur: AM I CALLED TO PREACH? has already been recorded in the archive
+[download] Downloading video 67 of 74
+[download] John MacArthur: ADVICE FOR SINGLE MEN has already been recorded in the archive
+[download] Downloading video 68 of 74
+[download] John MacArthur: THREE ROADS TO HELL...Part 3 has already been recorded in the archive
+[download] Downloading video 69 of 74
+[download] John MacArthur: THREE ROADS TO HELL...Part 2 has already been recorded in the archive
+[download] Downloading video 70 of 74
+[download] John MacArthur: THREE ROADS TO HELL... Part 1 has already been recorded in the archive
+[download] Downloading video 71 of 74
+[download] John MacArthur:  WHY BELIEVE IN JESUS? has already been recorded in the archive
+[download] Downloading video 72 of 74
+[download] John MacArthur:  LAST CALL has already been recorded in the archive
+[download] Downloading video 73 of 74
+[download] John MacArthur: WERE THE MIRACLES OF JESUS DISPROVEN? has already been recorded in the archive
+[download] Downloading video 74 of 74
+[download] John MacArthur: THE FINAL WARNING OF JESUS has already been recorded in the archive
+[download] Finished downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+
+Youtube-Dl OUTPUT: [youtube:tab] A channel/user page was given. All the channel's videos will be downloaded. To download only the videos in the home page, add a "/featured" to the URL
+[download] Downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 1: Downloading API JSON
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 2: Downloading API JSON
+[info] Playlist description is already present
+[info] Playlist thumbnail is already present
+[youtube:tab] playlist 5 MINUTE CHRISTIANITY - Videos: Downloading 74 videos
+[download] Downloading video 1 of 74
+[download] John MacArthur:  THE TRUE NATURE OF SINNERS has already been recorded in the archive
+[download] Downloading video 2 of 74
+[download] John MacArthur:  MARY, THE MOTHER OF GOD?? has already been recorded in the archive
+[download] Downloading video 3 of 74
+[download] John MacArthur:  HOW TO FEEL INNER PEACE has already been recorded in the archive
+[download] Downloading video 4 of 74
+[download] John MacArthur:  AT PEACE WITH GOD has already been recorded in the archive
+[download] Downloading video 5 of 74
+[download] John MacArthur:  THE FEAR OF GOD has already been recorded in the archive
+[download] Downloading video 6 of 74
+[download] John MacArthur:  CHARISMATIC CULT--INSULTING THE HOLY SPIRIT has already been recorded in the archive
+[download] Downloading video 7 of 74
+[download] John MacArthur:  DID JESUS VISIT HELL? has already been recorded in the archive
+[download] Downloading video 8 of 74
+[download] John MacArthur:  THE INNER STRUGGLE WITH THE FLESH has already been recorded in the archive
+[download] Downloading video 9 of 74
+[download] John MacArthur:  THE CONFLICT WITHIN has already been recorded in the archive
+[download] Downloading video 10 of 74
+[download] John MacArthur:  THE LIE OF EVOLUTION has already been recorded in the archive
+[download] Downloading video 11 of 74
+[download] John MacArthur:  PUT OFF THE OLD MAN has already been recorded in the archive
+[download] Downloading video 12 of 74
+[download] John MacArthur:  FORBIDDEN BY GOVERNMENT has already been recorded in the archive
+[download] Downloading video 13 of 74
+[download] John MacArthur:  GOD CONTROLS THE FUTURE has already been recorded in the archive
+[download] Downloading video 14 of 74
+[download] John MacArthur:  CAN I LOSE MY SALVATION? has already been recorded in the archive
+[download] Downloading video 15 of 74
+[download] John MacArthur:  ADOPTED BY GOD has already been recorded in the archive
+[download] Downloading video 16 of 74
+[download] John MacArthur:  NO RACIAL BARRIERS has already been recorded in the archive
+[download] Downloading video 17 of 74
+[download] John MacArthur:  CAN WE CHOOSE GOD? has already been recorded in the archive
+[download] Downloading video 18 of 74
+[download] John MacArthur:  PUT ON THE NEW MAN has already been recorded in the archive
+[download] Downloading video 19 of 74
+[download] John MacArthur:  A PRAYER FOR SALVATION has already been recorded in the archive
+[download] Downloading video 20 of 74
+[download] John MacArthur:  IT'S TOO LATE! has already been recorded in the archive
+[download] Downloading video 21 of 74
+[download] John MacArthur:  SEDUCED BY THE CHARISMATIC CULT has already been recorded in the archive
+[download] Downloading video 22 of 74
+[download] John MacArthur:  PARTNERING WITH SATAN has already been recorded in the archive
+[download] Downloading video 23 of 74
+[download] John MacArthur:  HOW DO YOU KNOW YOU'RE A CHRISTIAN? has already been recorded in the archive
+[download] Downloading video 24 of 74
+[download] John MacArthur:  KILLING THE PROPHETS has already been recorded in the archive
+[download] Downloading video 25 of 74
+[download] John MacArthur:  SHARING THE GOSPEL WITH COURAGE! has already been recorded in the archive
+[download] Downloading video 26 of 74
+[download] John MacArthur:  OUR DIVINE MISSION has already been recorded in the archive
+[download] Downloading video 27 of 74
+[download] John MacArthur:  ANGELIC SIN has already been recorded in the archive
+[download] Downloading video 28 of 74
+[download] John MacArthur:  HOW GOOD MUST I BE? has already been recorded in the archive
+[download] Downloading video 29 of 74
+[download] John MacArthur:  SAVED FROM WHAT has already been recorded in the archive
+[download] Downloading video 30 of 74
+[download] John MacArthur:  CATHOLIC vs  CHRISTIAN has already been recorded in the archive
+[download] Downloading video 31 of 74
+[download] John MacArthur:  HOW TO LIVE THE CHRISTIAN LIFE has already been recorded in the archive
+[download] Downloading video 32 of 74
+[download] John MacArthur:  THE FEAR OF DEATH has already been recorded in the archive
+[download] Downloading video 33 of 74
+[download] John MacArthur:  CHILDREN OF GOD vs.  CHILDREN OF THE DEVIL has already been recorded in the archive
+[download] Downloading video 34 of 74
+[download] John MacArthur:  HOW DO I LOVE GOD? has already been recorded in the archive
+[download] Downloading video 35 of 74
+[download] John MacArthur:  TRUSTING GOD DURING COVID has already been recorded in the archive
+[download] Downloading video 36 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--LEAD US NOT INTO TEMPTATION has already been recorded in the archive
+[download] Downloading video 37 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--FORGIVE US OUR SINS has already been recorded in the archive
+[download] Downloading video 38 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--OUR DAILY BREAD has already been recorded in the archive
+[download] Downloading video 39 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--THY KINGDOM COME has already been recorded in the archive
+[download] Downloading video 40 of 74
+[download] John MacArthur:  THE LORD'S PRAYER--HALLOWED BE THY NAME has already been recorded in the archive
+[download] Downloading video 41 of 74
+[download] John MacArthur:  MODERN CHRISTIAN PERSECUTION has already been recorded in the archive
+[download] Downloading video 42 of 74
+[download] John MacArthur:  JESUS AND HELL has already been recorded in the archive
+[download] Downloading video 43 of 74
+[download] John MacArthur:  UNDERSTANDING SALVATION has already been recorded in the archive
+[download] Downloading video 44 of 74
+[download] John MacArthur:  A MARXIST TAKEOVER OF THE CHURCH has already been recorded in the archive
+[download] Downloading video 45 of 74
+[download] John MacArthur:  WHY A SERPENT ON A STICK? has already been recorded in the archive
+[download] Downloading video 46 of 74
+[download] John MacArthur:  THE CONSEQUENCE OF UNBELIEF has already been recorded in the archive
+[download] Downloading video 47 of 74
+[download] John MacArthur:  WERE OLD TESTAMENT PEOPLE SAVED? has already been recorded in the archive
+[download] Downloading video 48 of 74
+[download] John MacArthur:  RACISM IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 49 of 74
+[download] John MacArthur:  WHY DOES GOD ALLOW EVIL? has already been recorded in the archive
+[download] Downloading video 50 of 74
+[download] John MacArthur:  SHOULD CHRISTIANS TAKE THE JAB? has already been recorded in the archive
+[download] Downloading video 51 of 74
+[download] John MacArthur:  "WHY HAVE YOU FORSAKEN ME?" has already been recorded in the archive
+[download] Downloading video 52 of 74
+[download] John MacArthur:  OUR SATANIC LEADERS has already been recorded in the archive
+[download] Downloading video 53 of 74
+[download] R.C. Sproul:  O.M.G. has already been recorded in the archive
+[download] Downloading video 54 of 74
+[download] R.C. Sproul:  WHAT IS THE GOSPEL? has already been recorded in the archive
+[download] Downloading video 55 of 74
+[download] R.C.  Sproul:  DON'T MESS WITH THE GOSPEL! has already been recorded in the archive
+[download] Downloading video 56 of 74
+[download] John MacArthur:  HOW SHOULD WE RELATE TO THE WORLD? has already been recorded in the archive
+[download] Downloading video 57 of 74
+[download] John MacArthur:  EVIL CHRISTIAN COMPROMISE has already been recorded in the archive
+[download] Downloading video 58 of 74
+[download] John MacArthur: ARE PEOPLE BASICALLY GOOD? has already been recorded in the archive
+[download] Downloading video 59 of 74
+[download] John MacArthur: CULTURAL INFILTRATION IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 60 of 74
+[download] John MacArthur: IS GOVERNMENT A THREAT TO THE CHURCH? has already been recorded in the archive
+[download] Downloading video 61 of 74
+[download] John MacArthur: HOW DOES GOD SPEAK TO YOU? has already been recorded in the archive
+[download] Downloading video 62 of 74
+[download] John MacArthur: DOES TRUTH MATTER? has already been recorded in the archive
+[download] Downloading video 63 of 74
+[download] John MacArthur: CHRISTIANS AND RE-MARRIAGE has already been recorded in the archive
+[download] Downloading video 64 of 74
+[download] John MacArthur: CAN A CHRISTIAN DIVORCE? has already been recorded in the archive
+[download] Downloading video 65 of 74
+[download] John MacArthur: ARE YOU CONTEMPLATING MARRIAGE? has already been recorded in the archive
+[download] Downloading video 66 of 74
+[download] John MacArthur: AM I CALLED TO PREACH? has already been recorded in the archive
+[download] Downloading video 67 of 74
+[download] John MacArthur: ADVICE FOR SINGLE MEN has already been recorded in the archive
+[download] Downloading video 68 of 74
+[download] John MacArthur: THREE ROADS TO HELL...Part 3 has already been recorded in the archive
+[download] Downloading video 69 of 74
+[download] John MacArthur: THREE ROADS TO HELL...Part 2 has already been recorded in the archive
+[download] Downloading video 70 of 74
+[download] John MacArthur: THREE ROADS TO HELL... Part 1 has already been recorded in the archive
+[download] Downloading video 71 of 74
+[download] John MacArthur:  WHY BELIEVE IN JESUS? has already been recorded in the archive
+[download] Downloading video 72 of 74
+[download] John MacArthur:  LAST CALL has already been recorded in the archive
+[download] Downloading video 73 of 74
+[download] John MacArthur: WERE THE MIRACLES OF JESUS DISPROVEN? has already been recorded in the archive
+[download] Downloading video 74 of 74
+[download] John MacArthur: THE FINAL WARNING OF JESUS has already been recorded in the archive
+[download] Finished downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+

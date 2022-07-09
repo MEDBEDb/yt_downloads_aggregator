@@ -1,0 +1,18 @@
+5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA): 6 files before download
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage (retry #1)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage (retry #2)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage (retry #3)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON (retry #1)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON (retry #2)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON (retry #3)
+
+Youtube-Dl OUTPUT: [youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage (retry #1)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage (retry #2)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage (retry #3)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON (retry #1)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON (retry #2)
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading API parameters API JSON (retry #3)
+

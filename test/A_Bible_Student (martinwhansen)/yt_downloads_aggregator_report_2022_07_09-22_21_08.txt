@@ -1,0 +1,30 @@
+A_Bible_Student (martinwhansen): 1 files before download
+[youtube:tab] martinwhansen: Downloading webpage
+[download] Downloading playlist: A Bible Student - Videos
+[info] Playlist description is already present
+[info] Playlist thumbnail is already present
+[youtube:tab] playlist A Bible Student - Videos: Downloading 4 videos
+[download] Downloading video 1 of 4
+[download] Todays Pop Gospel has already been recorded in the archive
+[download] Downloading video 2 of 4
+[download] God and Evil has already been recorded in the archive
+[download] Downloading video 3 of 4
+[download] Why Tithing should not be inforced on Christians today has already been recorded in the archive
+[download] Downloading video 4 of 4
+[download] Tithing is Not a Christian Doctrine has already been recorded in the archive
+[download] Finished downloading playlist: A Bible Student - Videos
+
+Youtube-Dl OUTPUT: [download] Downloading playlist: A Bible Student - Videos
+[info] Playlist description is already present
+[info] Playlist thumbnail is already present
+[youtube:tab] playlist A Bible Student - Videos: Downloading 4 videos
+[download] Downloading video 1 of 4
+[download] Todays Pop Gospel has already been recorded in the archive
+[download] Downloading video 2 of 4
+[download] God and Evil has already been recorded in the archive
+[download] Downloading video 3 of 4
+[download] Why Tithing should not be inforced on Christians today has already been recorded in the archive
+[download] Downloading video 4 of 4
+[download] Tithing is Not a Christian Doctrine has already been recorded in the archive
+[download] Finished downloading playlist: A Bible Student - Videos
+

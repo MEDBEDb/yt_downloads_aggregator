@@ -1,0 +1,508 @@
+5_MINUTE_CHRISTIANITY_LgcyChn UCwkFBQ2Y6jZzrF3GR2YSxWA: 2 files before download
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA: Downloading webpage
+[youtube:tab] A channel/user page was given. All the channel's videos will be downloaded. To download only the videos in the home page, add a "/featured" to the URL
+[download] Downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 1: Downloading API JSON
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 2: Downloading API JSON
+[info] Playlist description is already present
+[info] Playlist thumbnail is already present
+[youtube:tab] playlist 5 MINUTE CHRISTIANITY - Videos: Downloading 72 videos
+[download] Downloading video 1 of 72
+[youtube] E6lVOPVQRlM: Downloading webpage
+[youtube] E6lVOPVQRlM: Downloading android player API JSON
+[info] E6lVOPVQRlM: Downloading 1 format(s): 18
+[info] Writing video description to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].description
+[info] Writing video subtitles to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].en.vtt
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].en.vtt
+[download] 1.00KiB at 45.58KiB/s (00:00)
+[download] 3.00KiB at 100.27KiB/s (00:00)
+[download] 7.00KiB at 179.97KiB/s (00:00)
+[download] 15.00KiB at 313.15KiB/s (00:00)
+[download] 31.00KiB at 545.33KiB/s (00:00)
+[download] 32.65KiB at 496.08KiB/s (00:00)
+[download] 100% of 32.65KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].ru.vtt
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].ru.vtt
+[download] 1.00KiB at  3.58KiB/s (00:00)
+[download] 3.00KiB at 10.42KiB/s (00:00)
+[download] 7.00KiB at 23.58KiB/s (00:00)
+[download] 15.00KiB at 49.04KiB/s (00:00)
+[download] 31.00KiB at 98.15KiB/s (00:00)
+[download] 37.22KiB at 114.25KiB/s (00:00)
+[download] 100% of 37.22KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].zh-Hans.vtt
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].zh-Hans.vtt
+[download] 1.00KiB at 91.15KiB/s (00:00)
+[download] 3.00KiB at 150.36KiB/s (00:00)
+[download] 7.00KiB at 242.04KiB/s (00:00)
+[download] 15.00KiB at 395.81KiB/s (00:00)
+[download] 31.00KiB at 661.35KiB/s (00:00)
+[download] 31.62KiB at 566.25KiB/s (00:00)
+[download] 100% of 31.62KiB in 00:00
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].webp
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].mp4
+[download]   0.0% of 12.94MiB at 22.19KiB/s ETA 09:56
+[download]   0.0% of 12.94MiB at 55.52KiB/s ETA 03:58
+[download]   0.1% of 12.94MiB at 111.09KiB/s ETA 01:59
+[download]   0.1% of 12.94MiB at 205.53KiB/s ETA 01:04
+[download]   0.2% of 12.94MiB at 214.06KiB/s ETA 01:01
+[download]   0.5% of 12.94MiB at 245.62KiB/s ETA 00:53
+[download]   1.0% of 12.94MiB at 338.86KiB/s ETA 00:38
+[download]   1.9% of 12.94MiB at 512.80KiB/s ETA 00:25
+[download]   3.9% of 12.94MiB at 813.60KiB/s ETA 00:15
+[download]   7.7% of 12.94MiB at  1.18MiB/s ETA 00:10
+[download]  15.5% of 12.94MiB at  1.69MiB/s ETA 00:06
+[download]  30.9% of 12.94MiB at  2.35MiB/s ETA 00:03
+[download]  60.7% of 12.94MiB at  3.22MiB/s ETA 00:01
+[download]  91.6% of 12.94MiB at  3.84MiB/s ETA 00:00
+[download] 100% of 12.94MiB at  3.87MiB/s ETA 00:00
+[download] 100% of 12.94MiB in 00:03
+[VideoConvertor] Not converting media file "John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].mp4"; already is in target format mp4
+[ThumbnailsConvertor] Converting thumbnail "John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].mp4"
+[download] Downloading video 2 of 72
+[youtube] ErtAI_kxnyA: Downloading webpage
+[youtube] ErtAI_kxnyA: Downloading android player API JSON
+[info] ErtAI_kxnyA: Downloading 1 format(s): 18
+[info] Writing video description to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].description
+[info] Writing video subtitles to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].en.vtt
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].en.vtt
+[download] 1.00KiB at 91.15KiB/s (00:00)
+[download] 3.00KiB at 158.31KiB/s (00:00)
+[download] 7.00KiB at 250.67KiB/s (00:00)
+[download] 15.00KiB at 395.79KiB/s (00:00)
+[download] 23.88KiB at 502.66KiB/s (00:00)
+[download] 100% of 23.88KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].ru.vtt
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].ru.vtt
+[download] 1.00KiB at 77.33KiB/s (00:00)
+[download] 3.00KiB at 130.97KiB/s (00:00)
+[download] 7.00KiB at 226.66KiB/s (00:00)
+[download] 15.00KiB at 367.14KiB/s (00:00)
+[download] 26.25KiB at 537.53KiB/s (00:00)
+[download] 100% of 26.25KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].zh-Hans.vtt
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].zh-Hans.vtt
+[download] 1.00KiB at 100.27KiB/s (00:00)
+[download] 3.00KiB at 152.79KiB/s (00:00)
+[download] 7.00KiB at 249.86KiB/s (00:00)
+[download] 15.00KiB at 394.55KiB/s (00:00)
+[download] 20.85KiB at 443.92KiB/s (00:00)
+[download] 100% of 20.85KiB in 00:00
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].webp
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].mp4
+[download]   0.0% of 8.27MiB at 26.10KiB/s ETA 05:24
+[download]   0.0% of 8.27MiB at 63.43KiB/s ETA 02:13
+[download]   0.1% of 8.27MiB at 124.40KiB/s ETA 01:07
+[download]   0.2% of 8.27MiB at 228.07KiB/s ETA 00:37
+[download]   0.4% of 8.27MiB at 200.13KiB/s ETA 00:42
+[download]   0.7% of 8.27MiB at 243.04KiB/s ETA 00:34
+[download]   1.5% of 8.27MiB at 323.19KiB/s ETA 00:25
+[download]   3.0% of 8.27MiB at 489.92KiB/s ETA 00:16
+[download]   6.0% of 8.27MiB at 777.58KiB/s ETA 00:10
+[download]  12.1% of 8.27MiB at  1.14MiB/s ETA 00:06
+[download]  24.2% of 8.27MiB at  1.48MiB/s ETA 00:04
+[download]  48.4% of 8.27MiB at  1.80MiB/s ETA 00:02
+[download]  76.2% of 8.27MiB at  2.82MiB/s ETA 00:00
+[download] 100% of 8.27MiB at  3.68MiB/s ETA 00:00
+[download] 100% of 8.27MiB in 00:03
+[VideoConvertor] Not converting media file "John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].mp4"; already is in target format mp4
+[ThumbnailsConvertor] Converting thumbnail "John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].mp4"
+[download] Downloading video 3 of 72
+[download] John MacArthur:  THE FEAR OF GOD has already been recorded in the archive
+[download] Downloading video 4 of 72
+[download] John MacArthur:  CHARISMATIC CULT--INSULTING THE HOLY SPIRIT has already been recorded in the archive
+[download] Downloading video 5 of 72
+[download] John MacArthur:  DID JESUS VISIT HELL? has already been recorded in the archive
+[download] Downloading video 6 of 72
+[download] John MacArthur:  THE INNER STRUGGLE WITH THE FLESH has already been recorded in the archive
+[download] Downloading video 7 of 72
+[download] John MacArthur:  THE CONFLICT WITHIN has already been recorded in the archive
+[download] Downloading video 8 of 72
+[download] John MacArthur:  THE LIE OF EVOLUTION has already been recorded in the archive
+[download] Downloading video 9 of 72
+[download] John MacArthur:  PUT OFF THE OLD MAN has already been recorded in the archive
+[download] Downloading video 10 of 72
+[download] John MacArthur:  FORBIDDEN BY GOVERNMENT has already been recorded in the archive
+[download] Downloading video 11 of 72
+[download] John MacArthur:  GOD CONTROLS THE FUTURE has already been recorded in the archive
+[download] Downloading video 12 of 72
+[download] John MacArthur:  CAN I LOSE MY SALVATION? has already been recorded in the archive
+[download] Downloading video 13 of 72
+[download] John MacArthur:  ADOPTED BY GOD has already been recorded in the archive
+[download] Downloading video 14 of 72
+[download] John MacArthur:  NO RACIAL BARRIERS has already been recorded in the archive
+[download] Downloading video 15 of 72
+[download] John MacArthur:  CAN WE CHOOSE GOD? has already been recorded in the archive
+[download] Downloading video 16 of 72
+[download] John MacArthur:  PUT ON THE NEW MAN has already been recorded in the archive
+[download] Downloading video 17 of 72
+[download] John MacArthur:  A PRAYER FOR SALVATION has already been recorded in the archive
+[download] Downloading video 18 of 72
+[download] John MacArthur:  IT'S TOO LATE! has already been recorded in the archive
+[download] Downloading video 19 of 72
+[download] John MacArthur:  SEDUCED BY THE CHARISMATIC CULT has already been recorded in the archive
+[download] Downloading video 20 of 72
+[download] John MacArthur:  PARTNERING WITH SATAN has already been recorded in the archive
+[download] Downloading video 21 of 72
+[download] John MacArthur:  HOW DO YOU KNOW YOU'RE A CHRISTIAN? has already been recorded in the archive
+[download] Downloading video 22 of 72
+[download] John MacArthur:  KILLING THE PROPHETS has already been recorded in the archive
+[download] Downloading video 23 of 72
+[download] John MacArthur:  SHARING THE GOSPEL WITH COURAGE! has already been recorded in the archive
+[download] Downloading video 24 of 72
+[download] John MacArthur:  OUR DIVINE MISSION has already been recorded in the archive
+[download] Downloading video 25 of 72
+[download] John MacArthur:  ANGELIC SIN has already been recorded in the archive
+[download] Downloading video 26 of 72
+[download] John MacArthur:  HOW GOOD MUST I BE? has already been recorded in the archive
+[download] Downloading video 27 of 72
+[download] John MacArthur:  SAVED FROM WHAT has already been recorded in the archive
+[download] Downloading video 28 of 72
+[download] John MacArthur:  CATHOLIC vs  CHRISTIAN has already been recorded in the archive
+[download] Downloading video 29 of 72
+[download] John MacArthur:  HOW TO LIVE THE CHRISTIAN LIFE has already been recorded in the archive
+[download] Downloading video 30 of 72
+[download] John MacArthur:  THE FEAR OF DEATH has already been recorded in the archive
+[download] Downloading video 31 of 72
+[download] John MacArthur:  CHILDREN OF GOD vs.  CHILDREN OF THE DEVIL has already been recorded in the archive
+[download] Downloading video 32 of 72
+[download] John MacArthur:  HOW DO I LOVE GOD? has already been recorded in the archive
+[download] Downloading video 33 of 72
+[download] John MacArthur:  TRUSTING GOD DURING COVID has already been recorded in the archive
+[download] Downloading video 34 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--LEAD US NOT INTO TEMPTATION has already been recorded in the archive
+[download] Downloading video 35 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--FORGIVE US OUR SINS has already been recorded in the archive
+[download] Downloading video 36 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--OUR DAILY BREAD has already been recorded in the archive
+[download] Downloading video 37 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--THY KINGDOM COME has already been recorded in the archive
+[download] Downloading video 38 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--HALLOWED BE THY NAME has already been recorded in the archive
+[download] Downloading video 39 of 72
+[download] John MacArthur:  MODERN CHRISTIAN PERSECUTION has already been recorded in the archive
+[download] Downloading video 40 of 72
+[download] John MacArthur:  JESUS AND HELL has already been recorded in the archive
+[download] Downloading video 41 of 72
+[download] John MacArthur:  UNDERSTANDING SALVATION has already been recorded in the archive
+[download] Downloading video 42 of 72
+[download] John MacArthur:  A MARXIST TAKEOVER OF THE CHURCH has already been recorded in the archive
+[download] Downloading video 43 of 72
+[download] John MacArthur:  WHY A SERPENT ON A STICK? has already been recorded in the archive
+[download] Downloading video 44 of 72
+[download] John MacArthur:  THE CONSEQUENCE OF UNBELIEF has already been recorded in the archive
+[download] Downloading video 45 of 72
+[download] John MacArthur:  WERE OLD TESTAMENT PEOPLE SAVED? has already been recorded in the archive
+[download] Downloading video 46 of 72
+[download] John MacArthur:  RACISM IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 47 of 72
+[download] John MacArthur:  WHY DOES GOD ALLOW EVIL? has already been recorded in the archive
+[download] Downloading video 48 of 72
+[download] John MacArthur:  SHOULD CHRISTIANS TAKE THE JAB? has already been recorded in the archive
+[download] Downloading video 49 of 72
+[download] John MacArthur:  "WHY HAVE YOU FORSAKEN ME?" has already been recorded in the archive
+[download] Downloading video 50 of 72
+[download] John MacArthur:  OUR SATANIC LEADERS has already been recorded in the archive
+[download] Downloading video 51 of 72
+[download] R.C. Sproul:  O.M.G. has already been recorded in the archive
+[download] Downloading video 52 of 72
+[download] R.C. Sproul:  WHAT IS THE GOSPEL? has already been recorded in the archive
+[download] Downloading video 53 of 72
+[download] R.C.  Sproul:  DON'T MESS WITH THE GOSPEL! has already been recorded in the archive
+[download] Downloading video 54 of 72
+[download] John MacArthur:  HOW SHOULD WE RELATE TO THE WORLD? has already been recorded in the archive
+[download] Downloading video 55 of 72
+[download] John MacArthur:  EVIL CHRISTIAN COMPROMISE has already been recorded in the archive
+[download] Downloading video 56 of 72
+[download] John MacArthur: ARE PEOPLE BASICALLY GOOD? has already been recorded in the archive
+[download] Downloading video 57 of 72
+[download] John MacArthur: CULTURAL INFILTRATION IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 58 of 72
+[download] John MacArthur: IS GOVERNMENT A THREAT TO THE CHURCH? has already been recorded in the archive
+[download] Downloading video 59 of 72
+[download] John MacArthur: HOW DOES GOD SPEAK TO YOU? has already been recorded in the archive
+[download] Downloading video 60 of 72
+[download] John MacArthur: DOES TRUTH MATTER? has already been recorded in the archive
+[download] Downloading video 61 of 72
+[download] John MacArthur: CHRISTIANS AND RE-MARRIAGE has already been recorded in the archive
+[download] Downloading video 62 of 72
+[download] John MacArthur: CAN A CHRISTIAN DIVORCE? has already been recorded in the archive
+[download] Downloading video 63 of 72
+[download] John MacArthur: ARE YOU CONTEMPLATING MARRIAGE? has already been recorded in the archive
+[download] Downloading video 64 of 72
+[download] John MacArthur: AM I CALLED TO PREACH? has already been recorded in the archive
+[download] Downloading video 65 of 72
+[download] John MacArthur: ADVICE FOR SINGLE MEN has already been recorded in the archive
+[download] Downloading video 66 of 72
+[download] John MacArthur: THREE ROADS TO HELL...Part 3 has already been recorded in the archive
+[download] Downloading video 67 of 72
+[download] John MacArthur: THREE ROADS TO HELL...Part 2 has already been recorded in the archive
+[download] Downloading video 68 of 72
+[download] John MacArthur: THREE ROADS TO HELL... Part 1 has already been recorded in the archive
+[download] Downloading video 69 of 72
+[download] John MacArthur:  WHY BELIEVE IN JESUS? has already been recorded in the archive
+[download] Downloading video 70 of 72
+[download] John MacArthur:  LAST CALL has already been recorded in the archive
+[download] Downloading video 71 of 72
+[download] John MacArthur: WERE THE MIRACLES OF JESUS DISPROVEN? has already been recorded in the archive
+[download] Downloading video 72 of 72
+[download] John MacArthur: THE FINAL WARNING OF JESUS has already been recorded in the archive
+[download] Finished downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+
+Youtube-Dl OUTPUT: [youtube:tab] A channel/user page was given. All the channel's videos will be downloaded. To download only the videos in the home page, add a "/featured" to the URL
+[download] Downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 1: Downloading API JSON
+[youtube:tab] UCwkFBQ2Y6jZzrF3GR2YSxWA page 2: Downloading API JSON
+[info] Playlist description is already present
+[info] Playlist thumbnail is already present
+[youtube:tab] playlist 5 MINUTE CHRISTIANITY - Videos: Downloading 72 videos
+[download] Downloading video 1 of 72
+[youtube] E6lVOPVQRlM: Downloading webpage
+[youtube] E6lVOPVQRlM: Downloading android player API JSON
+[info] E6lVOPVQRlM: Downloading 1 format(s): 18
+[info] Writing video description to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].description
+[info] Writing video subtitles to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].en.vtt
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].en.vtt
+[download] 1.00KiB at 45.58KiB/s (00:00)
+[download] 3.00KiB at 100.27KiB/s (00:00)
+[download] 7.00KiB at 179.97KiB/s (00:00)
+[download] 15.00KiB at 313.15KiB/s (00:00)
+[download] 31.00KiB at 545.33KiB/s (00:00)
+[download] 32.65KiB at 496.08KiB/s (00:00)
+[download] 100% of 32.65KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].ru.vtt
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].ru.vtt
+[download] 1.00KiB at  3.58KiB/s (00:00)
+[download] 3.00KiB at 10.42KiB/s (00:00)
+[download] 7.00KiB at 23.58KiB/s (00:00)
+[download] 15.00KiB at 49.04KiB/s (00:00)
+[download] 31.00KiB at 98.15KiB/s (00:00)
+[download] 37.22KiB at 114.25KiB/s (00:00)
+[download] 100% of 37.22KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].zh-Hans.vtt
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].zh-Hans.vtt
+[download] 1.00KiB at 91.15KiB/s (00:00)
+[download] 3.00KiB at 150.36KiB/s (00:00)
+[download] 7.00KiB at 242.04KiB/s (00:00)
+[download] 15.00KiB at 395.81KiB/s (00:00)
+[download] 31.00KiB at 661.35KiB/s (00:00)
+[download] 31.62KiB at 566.25KiB/s (00:00)
+[download] 100% of 31.62KiB in 00:00
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].webp
+[download] Destination: John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].mp4
+[download]   0.0% of 12.94MiB at 22.19KiB/s ETA 09:56
+[download]   0.0% of 12.94MiB at 55.52KiB/s ETA 03:58
+[download]   0.1% of 12.94MiB at 111.09KiB/s ETA 01:59
+[download]   0.1% of 12.94MiB at 205.53KiB/s ETA 01:04
+[download]   0.2% of 12.94MiB at 214.06KiB/s ETA 01:01
+[download]   0.5% of 12.94MiB at 245.62KiB/s ETA 00:53
+[download]   1.0% of 12.94MiB at 338.86KiB/s ETA 00:38
+[download]   1.9% of 12.94MiB at 512.80KiB/s ETA 00:25
+[download]   3.9% of 12.94MiB at 813.60KiB/s ETA 00:15
+[download]   7.7% of 12.94MiB at  1.18MiB/s ETA 00:10
+[download]  15.5% of 12.94MiB at  1.69MiB/s ETA 00:06
+[download]  30.9% of 12.94MiB at  2.35MiB/s ETA 00:03
+[download]  60.7% of 12.94MiB at  3.22MiB/s ETA 00:01
+[download]  91.6% of 12.94MiB at  3.84MiB/s ETA 00:00
+[download] 100% of 12.94MiB at  3.87MiB/s ETA 00:00
+[download] 100% of 12.94MiB in 00:03
+[VideoConvertor] Not converting media file "John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].mp4"; already is in target format mp4
+[ThumbnailsConvertor] Converting thumbnail "John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "John_MacArthur_-_HOW_TO_FEEL_INNER_PEACE-[E6lVOPVQRlM].mp4"
+[download] Downloading video 2 of 72
+[youtube] ErtAI_kxnyA: Downloading webpage
+[youtube] ErtAI_kxnyA: Downloading android player API JSON
+[info] ErtAI_kxnyA: Downloading 1 format(s): 18
+[info] Writing video description to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].description
+[info] Writing video subtitles to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].en.vtt
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].en.vtt
+[download] 1.00KiB at 91.15KiB/s (00:00)
+[download] 3.00KiB at 158.31KiB/s (00:00)
+[download] 7.00KiB at 250.67KiB/s (00:00)
+[download] 15.00KiB at 395.79KiB/s (00:00)
+[download] 23.88KiB at 502.66KiB/s (00:00)
+[download] 100% of 23.88KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].ru.vtt
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].ru.vtt
+[download] 1.00KiB at 77.33KiB/s (00:00)
+[download] 3.00KiB at 130.97KiB/s (00:00)
+[download] 7.00KiB at 226.66KiB/s (00:00)
+[download] 15.00KiB at 367.14KiB/s (00:00)
+[download] 26.25KiB at 537.53KiB/s (00:00)
+[download] 100% of 26.25KiB in 00:00
+[info] Writing video subtitles to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].zh-Hans.vtt
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].zh-Hans.vtt
+[download] 1.00KiB at 100.27KiB/s (00:00)
+[download] 3.00KiB at 152.79KiB/s (00:00)
+[download] 7.00KiB at 249.86KiB/s (00:00)
+[download] 15.00KiB at 394.55KiB/s (00:00)
+[download] 20.85KiB at 443.92KiB/s (00:00)
+[download] 100% of 20.85KiB in 00:00
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].webp
+[download] Destination: John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].mp4
+[download]   0.0% of 8.27MiB at 26.10KiB/s ETA 05:24
+[download]   0.0% of 8.27MiB at 63.43KiB/s ETA 02:13
+[download]   0.1% of 8.27MiB at 124.40KiB/s ETA 01:07
+[download]   0.2% of 8.27MiB at 228.07KiB/s ETA 00:37
+[download]   0.4% of 8.27MiB at 200.13KiB/s ETA 00:42
+[download]   0.7% of 8.27MiB at 243.04KiB/s ETA 00:34
+[download]   1.5% of 8.27MiB at 323.19KiB/s ETA 00:25
+[download]   3.0% of 8.27MiB at 489.92KiB/s ETA 00:16
+[download]   6.0% of 8.27MiB at 777.58KiB/s ETA 00:10
+[download]  12.1% of 8.27MiB at  1.14MiB/s ETA 00:06
+[download]  24.2% of 8.27MiB at  1.48MiB/s ETA 00:04
+[download]  48.4% of 8.27MiB at  1.80MiB/s ETA 00:02
+[download]  76.2% of 8.27MiB at  2.82MiB/s ETA 00:00
+[download] 100% of 8.27MiB at  3.68MiB/s ETA 00:00
+[download] 100% of 8.27MiB in 00:03
+[VideoConvertor] Not converting media file "John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].mp4"; already is in target format mp4
+[ThumbnailsConvertor] Converting thumbnail "John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "John_MacArthur_-_AT_PEACE_WITH_GOD-[ErtAI_kxnyA].mp4"
+[download] Downloading video 3 of 72
+[download] John MacArthur:  THE FEAR OF GOD has already been recorded in the archive
+[download] Downloading video 4 of 72
+[download] John MacArthur:  CHARISMATIC CULT--INSULTING THE HOLY SPIRIT has already been recorded in the archive
+[download] Downloading video 5 of 72
+[download] John MacArthur:  DID JESUS VISIT HELL? has already been recorded in the archive
+[download] Downloading video 6 of 72
+[download] John MacArthur:  THE INNER STRUGGLE WITH THE FLESH has already been recorded in the archive
+[download] Downloading video 7 of 72
+[download] John MacArthur:  THE CONFLICT WITHIN has already been recorded in the archive
+[download] Downloading video 8 of 72
+[download] John MacArthur:  THE LIE OF EVOLUTION has already been recorded in the archive
+[download] Downloading video 9 of 72
+[download] John MacArthur:  PUT OFF THE OLD MAN has already been recorded in the archive
+[download] Downloading video 10 of 72
+[download] John MacArthur:  FORBIDDEN BY GOVERNMENT has already been recorded in the archive
+[download] Downloading video 11 of 72
+[download] John MacArthur:  GOD CONTROLS THE FUTURE has already been recorded in the archive
+[download] Downloading video 12 of 72
+[download] John MacArthur:  CAN I LOSE MY SALVATION? has already been recorded in the archive
+[download] Downloading video 13 of 72
+[download] John MacArthur:  ADOPTED BY GOD has already been recorded in the archive
+[download] Downloading video 14 of 72
+[download] John MacArthur:  NO RACIAL BARRIERS has already been recorded in the archive
+[download] Downloading video 15 of 72
+[download] John MacArthur:  CAN WE CHOOSE GOD? has already been recorded in the archive
+[download] Downloading video 16 of 72
+[download] John MacArthur:  PUT ON THE NEW MAN has already been recorded in the archive
+[download] Downloading video 17 of 72
+[download] John MacArthur:  A PRAYER FOR SALVATION has already been recorded in the archive
+[download] Downloading video 18 of 72
+[download] John MacArthur:  IT'S TOO LATE! has already been recorded in the archive
+[download] Downloading video 19 of 72
+[download] John MacArthur:  SEDUCED BY THE CHARISMATIC CULT has already been recorded in the archive
+[download] Downloading video 20 of 72
+[download] John MacArthur:  PARTNERING WITH SATAN has already been recorded in the archive
+[download] Downloading video 21 of 72
+[download] John MacArthur:  HOW DO YOU KNOW YOU'RE A CHRISTIAN? has already been recorded in the archive
+[download] Downloading video 22 of 72
+[download] John MacArthur:  KILLING THE PROPHETS has already been recorded in the archive
+[download] Downloading video 23 of 72
+[download] John MacArthur:  SHARING THE GOSPEL WITH COURAGE! has already been recorded in the archive
+[download] Downloading video 24 of 72
+[download] John MacArthur:  OUR DIVINE MISSION has already been recorded in the archive
+[download] Downloading video 25 of 72
+[download] John MacArthur:  ANGELIC SIN has already been recorded in the archive
+[download] Downloading video 26 of 72
+[download] John MacArthur:  HOW GOOD MUST I BE? has already been recorded in the archive
+[download] Downloading video 27 of 72
+[download] John MacArthur:  SAVED FROM WHAT has already been recorded in the archive
+[download] Downloading video 28 of 72
+[download] John MacArthur:  CATHOLIC vs  CHRISTIAN has already been recorded in the archive
+[download] Downloading video 29 of 72
+[download] John MacArthur:  HOW TO LIVE THE CHRISTIAN LIFE has already been recorded in the archive
+[download] Downloading video 30 of 72
+[download] John MacArthur:  THE FEAR OF DEATH has already been recorded in the archive
+[download] Downloading video 31 of 72
+[download] John MacArthur:  CHILDREN OF GOD vs.  CHILDREN OF THE DEVIL has already been recorded in the archive
+[download] Downloading video 32 of 72
+[download] John MacArthur:  HOW DO I LOVE GOD? has already been recorded in the archive
+[download] Downloading video 33 of 72
+[download] John MacArthur:  TRUSTING GOD DURING COVID has already been recorded in the archive
+[download] Downloading video 34 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--LEAD US NOT INTO TEMPTATION has already been recorded in the archive
+[download] Downloading video 35 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--FORGIVE US OUR SINS has already been recorded in the archive
+[download] Downloading video 36 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--OUR DAILY BREAD has already been recorded in the archive
+[download] Downloading video 37 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--THY KINGDOM COME has already been recorded in the archive
+[download] Downloading video 38 of 72
+[download] John MacArthur:  THE LORD'S PRAYER--HALLOWED BE THY NAME has already been recorded in the archive
+[download] Downloading video 39 of 72
+[download] John MacArthur:  MODERN CHRISTIAN PERSECUTION has already been recorded in the archive
+[download] Downloading video 40 of 72
+[download] John MacArthur:  JESUS AND HELL has already been recorded in the archive
+[download] Downloading video 41 of 72
+[download] John MacArthur:  UNDERSTANDING SALVATION has already been recorded in the archive
+[download] Downloading video 42 of 72
+[download] John MacArthur:  A MARXIST TAKEOVER OF THE CHURCH has already been recorded in the archive
+[download] Downloading video 43 of 72
+[download] John MacArthur:  WHY A SERPENT ON A STICK? has already been recorded in the archive
+[download] Downloading video 44 of 72
+[download] John MacArthur:  THE CONSEQUENCE OF UNBELIEF has already been recorded in the archive
+[download] Downloading video 45 of 72
+[download] John MacArthur:  WERE OLD TESTAMENT PEOPLE SAVED? has already been recorded in the archive
+[download] Downloading video 46 of 72
+[download] John MacArthur:  RACISM IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 47 of 72
+[download] John MacArthur:  WHY DOES GOD ALLOW EVIL? has already been recorded in the archive
+[download] Downloading video 48 of 72
+[download] John MacArthur:  SHOULD CHRISTIANS TAKE THE JAB? has already been recorded in the archive
+[download] Downloading video 49 of 72
+[download] John MacArthur:  "WHY HAVE YOU FORSAKEN ME?" has already been recorded in the archive
+[download] Downloading video 50 of 72
+[download] John MacArthur:  OUR SATANIC LEADERS has already been recorded in the archive
+[download] Downloading video 51 of 72
+[download] R.C. Sproul:  O.M.G. has already been recorded in the archive
+[download] Downloading video 52 of 72
+[download] R.C. Sproul:  WHAT IS THE GOSPEL? has already been recorded in the archive
+[download] Downloading video 53 of 72
+[download] R.C.  Sproul:  DON'T MESS WITH THE GOSPEL! has already been recorded in the archive
+[download] Downloading video 54 of 72
+[download] John MacArthur:  HOW SHOULD WE RELATE TO THE WORLD? has already been recorded in the archive
+[download] Downloading video 55 of 72
+[download] John MacArthur:  EVIL CHRISTIAN COMPROMISE has already been recorded in the archive
+[download] Downloading video 56 of 72
+[download] John MacArthur: ARE PEOPLE BASICALLY GOOD? has already been recorded in the archive
+[download] Downloading video 57 of 72
+[download] John MacArthur: CULTURAL INFILTRATION IN THE CHURCH has already been recorded in the archive
+[download] Downloading video 58 of 72
+[download] John MacArthur: IS GOVERNMENT A THREAT TO THE CHURCH? has already been recorded in the archive
+[download] Downloading video 59 of 72
+[download] John MacArthur: HOW DOES GOD SPEAK TO YOU? has already been recorded in the archive
+[download] Downloading video 60 of 72
+[download] John MacArthur: DOES TRUTH MATTER? has already been recorded in the archive
+[download] Downloading video 61 of 72
+[download] John MacArthur: CHRISTIANS AND RE-MARRIAGE has already been recorded in the archive
+[download] Downloading video 62 of 72
+[download] John MacArthur: CAN A CHRISTIAN DIVORCE? has already been recorded in the archive
+[download] Downloading video 63 of 72
+[download] John MacArthur: ARE YOU CONTEMPLATING MARRIAGE? has already been recorded in the archive
+[download] Downloading video 64 of 72
+[download] John MacArthur: AM I CALLED TO PREACH? has already been recorded in the archive
+[download] Downloading video 65 of 72
+[download] John MacArthur: ADVICE FOR SINGLE MEN has already been recorded in the archive
+[download] Downloading video 66 of 72
+[download] John MacArthur: THREE ROADS TO HELL...Part 3 has already been recorded in the archive
+[download] Downloading video 67 of 72
+[download] John MacArthur: THREE ROADS TO HELL...Part 2 has already been recorded in the archive
+[download] Downloading video 68 of 72
+[download] John MacArthur: THREE ROADS TO HELL... Part 1 has already been recorded in the archive
+[download] Downloading video 69 of 72
+[download] John MacArthur:  WHY BELIEVE IN JESUS? has already been recorded in the archive
+[download] Downloading video 70 of 72
+[download] John MacArthur:  LAST CALL has already been recorded in the archive
+[download] Downloading video 71 of 72
+[download] John MacArthur: WERE THE MIRACLES OF JESUS DISPROVEN? has already been recorded in the archive
+[download] Downloading video 72 of 72
+[download] John MacArthur: THE FINAL WARNING OF JESUS has already been recorded in the archive
+[download] Finished downloading playlist: 5 MINUTE CHRISTIANITY - Videos
+

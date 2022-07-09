@@ -1,0 +1,200 @@
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/')
+
+
+Dowload dir: A&O_LgcyChn (UCz4Qb-1lIttNRgB_lQDm6eA)
+Channel URL: https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/
+Existing files (before download): 0
+Total number of files after update: 6
+Files downloaded since the last update: 6
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A&O_LgcyChn_(UCz4Qb-1lIttNRgB_lQDm6eA).txt --write-description -ciw https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 0
+Total number of files after update: 6
+Files downloaded since the last update: 6
+Debug Command: ()
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/')
+
+
+Dowload dir: A&O_LgcyChn (UCz4Qb-1lIttNRgB_lQDm6eA)
+Channel URL: https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/
+Existing files (before download): 0
+Total number of files after update: 6
+Files downloaded since the last update: 6
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A&O_LgcyChn_(UCz4Qb-1lIttNRgB_lQDm6eA).txt --write-description -ciw https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/')
+
+
+Dowload dir: AO_LgcyChn (UCz4Qb-1lIttNRgB_lQDm6eA)
+Channel URL: https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/
+Existing files (before download): 0
+Total number of files after update: 0
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\AO_LgcyChn_(UCz4Qb-1lIttNRgB_lQDm6eA).txt --write-description -ciw https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 1
+Total number of files after update: 1
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A_Bible_Student_(martinwhansen).txt --write-description -ciw https://www.youtube.com/martinwhansen/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/')
+
+
+Dowload dir: AO_LgcyChn (UCz4Qb-1lIttNRgB_lQDm6eA)
+Channel URL: https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/
+Existing files (before download): 0
+Total number of files after update: 0
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\AO_LgcyChn_(UCz4Qb-1lIttNRgB_lQDm6eA).txt --write-description -ciw https://www.youtube.com/UCz4Qb-1lIttNRgB_lQDm6eA/videos/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 1
+Total number of files after update: 1
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A_Bible_Student_(martinwhansen).txt --write-description -ciw https://www.youtube.com/martinwhansen/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/UCwkFBQ2Y6jZzrF3GR2YSxWA/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 1
+Total number of files after update: 1
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A_Bible_Student_(martinwhansen).txt --write-description -ciw https://www.youtube.com/martinwhansen/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 1
+Total number of files after update: 1
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A_Bible_Student_(martinwhansen).txt --write-description -ciw https://www.youtube.com/martinwhansen/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/')
+
+
+Dowload dir: A&O_LgcyChn (UCz4Qb-1lIttNRgB_lQDm6eA)
+Channel URL: https://www.youtube.com/channel/UCz4Qb-1lIttNRgB_lQDm6eA/
+Existing files (before download): 2
+Total number of files after update: 6
+Files downloaded since the last update: 4
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A&O_LgcyChn_(UCz4Qb-1lIttNRgB_lQDm6eA).txt --write-description -ciw https://www.youtube.com/channel/UCz4Qb-1lIttNRgB_lQDm6eA/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 1
+Total number of files after update: 1
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A_Bible_Student_(martinwhansen).txt --write-description -ciw https://www.youtube.com/martinwhansen/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY_LgcyChn (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_LgcyChn_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/')
+
+
+Dowload dir: A&O_LgcyChn (UCz4Qb-1lIttNRgB_lQDm6eA)
+Channel URL: https://www.youtube.com/channel/UCz4Qb-1lIttNRgB_lQDm6eA/
+Existing files (before download): 2
+Total number of files after update: 6
+Files downloaded since the last update: 4
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A&O_LgcyChn_(UCz4Qb-1lIttNRgB_lQDm6eA).txt --write-description -ciw https://www.youtube.com/channel/UCz4Qb-1lIttNRgB_lQDm6eA/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 1
+Total number of files after update: 1
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A_Bible_Student_(martinwhansen).txt --write-description -ciw https://www.youtube.com/martinwhansen/videos/')
+
+
+Dowload dir: 5_MINUTE_CHRISTIANITY (UCwkFBQ2Y6jZzrF3GR2YSxWA)
+Channel URL: https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/
+Existing files (before download): 6
+Total number of files after update: 6
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\5_MINUTE_CHRISTIANITY_(UCwkFBQ2Y6jZzrF3GR2YSxWA).txt --write-description -ciw https://www.youtube.com/channel/UCwkFBQ2Y6jZzrF3GR2YSxWA/')
+
+
+Dowload dir: AO (UCz4Qb-1lIttNRgB_lQDm6eA)
+Channel URL: https://www.youtube.com/channel/UCz4Qb-1lIttNRgB_lQDm6eA/
+Existing files (before download): 2
+Total number of files after update: 2
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\AO_(UCz4Qb-1lIttNRgB_lQDm6eA).txt --write-description -ciw https://www.youtube.com/channel/UCz4Qb-1lIttNRgB_lQDm6eA/')
+
+
+Dowload dir: A_Bible_Student (martinwhansen)
+Channel URL: https://www.youtube.com/martinwhansen/videos/
+Existing files (before download): 1
+Total number of files after update: 1
+Files downloaded since the last update: 0
+Debug Command: (None, 'yt-dlp --yes-playlist -v --newline --progress --restrict-filenames --no-hls-use-mpegts --embed-thumbnail --write-thumbnail --write-auto-subs --write-subs --sub-langs en,ru,zh-Hans -f "best[height<=480]" --recode-video mp4 --part --write-playlist-metafiles --download-archive D:\\YTDL_test\\A_Bible_Student_(martinwhansen).txt --write-description -ciw https://www.youtube.com/martinwhansen/videos/')
+
